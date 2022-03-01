@@ -1,8 +1,7 @@
-.fstPage  {
-    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
-    /*background-color: lightgray;*/
-    height: 700px;
-    width:100%;
-    background-size:cover;
+html { 
+  background: url(https://github.com/Neverlivedordied/Neverlivedordied.github.io/blob/gh-pages/images/4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-<div class="fstPage"></div>
