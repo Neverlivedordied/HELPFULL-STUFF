@@ -12,7 +12,7 @@ Last time edited 3/21/2022 1:30pm
  
 <br>
       <a href="https://neverlivedordied.github.io/create-a-windows-acc-without-admin/index.html">
-         <img src="https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/windows.png" class="img-responsive" alt=""> </div>
+         <img src="https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/windows.png" class="img-responsive" alt=""> 
         
 
 
