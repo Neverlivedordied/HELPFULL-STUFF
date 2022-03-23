@@ -3,7 +3,7 @@
 # oh and btws might make it so its a link so you dont scroll through all this to a another thing.
 Last time edited 3/21/2022 1:30pm
 
-# to access the helpfull stuff click on the pictures!
+# click on the pictures to see how to do the stuff!
 
 ---
 
