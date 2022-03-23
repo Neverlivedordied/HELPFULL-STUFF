@@ -18,3 +18,10 @@ Last time edited 3/21/2022 1:30pm
 
 
 
+<body>
+
+<h2>Background Image</h2>
+
+<p>A background image for a p element:</p>
+
+<p style="background-image: url('https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/windows.png');">
