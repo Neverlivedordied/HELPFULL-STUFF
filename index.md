@@ -2,7 +2,13 @@
 ## Hi welcome to the Tips and tricks part of my website.  here you can do many things like how to make a new account on windows without needing admin how cool is that!
 # oh and btws might make it so its a link so you dont scroll through all this to a another thing.
 Last time edited 3/21/2022 1:30pm
+<button type="button" onclick="myFunction()">Night mode</button>
 
+<script>
+function myFunction() {
+  document.body.style.backgroundColor = "black";
+document.body.style.color = "Blue"
+} 
 # click on the pictures to see how to do the stuff!
 
 ---
