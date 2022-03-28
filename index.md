@@ -19,7 +19,7 @@ document.body.style.color = "Blue"
 <br>
 <br>
 <br>
-# click on the pictures to see how to do the stuff!
+ <font size="-1">click on the pictures to see how to do the stuff!
 
 ---
 <br>
