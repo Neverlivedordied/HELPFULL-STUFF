@@ -30,9 +30,9 @@ document.body.style.color = "Blue"
          <img src="https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/windows.png" class="img-responsive" alt=""> 
         
 
-
-
-
+<br>
+<br>
+<br>
 <body>
 
 <h2>Background Image</h2>
