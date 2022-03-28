@@ -16,13 +16,14 @@ document.body.style.color = "Blue"
  </script>
 </body>
 </html>
-
-
+<br>
+<br>
+<br>
 # click on the pictures to see how to do the stuff!
 
 ---
-
-
+<br>
+<br>
 ## creating a windows user account without having admin
  
 <br>
@@ -35,8 +36,4 @@ document.body.style.color = "Blue"
 <br>
 <body>
 
-<h2>Background Image</h2>
 
-<p>A background image for a p element:</p>
-
-<p style="background-image: url('https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/windows.png');">
